@@ -1,0 +1,69 @@
+{
+  "ret": "true",
+  "data": {
+    "foodtop":[
+      {
+        "id": "1",
+        "user_pic": "https://p0.meituan.net/userheadpicbackend/76e279e87c456f6dfb3a68f7eab44e06950328.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+        "name": "小鹿妮妮儿",
+        "name2": "你们说什么我根本不在乎"
+      }
+    ],
+    "swipperList": [
+      {
+        "id": "1",
+        "imgurl": "https://qcloud.dpfile.com/pc/Y_nv5Wa8MxIAIj4S7f1xAD12A-kD8U3ppv2JjF9f8GKaygIbGUTc54uLQmU44F9ykkCBOWO5rApRy3gE6VS0Vg.jpg"
+      },
+      {
+        "id": "2",
+        "imgurl": "http://qcloud.dpfile.com/pc/MhqNE8ERHMWFmKXbUkyfkVMp9Dd4ZRCkjdON3omJwSIcWme7_pAIXDJrMtL31KbvQs6E6HQccbzhvkqkRN4krQ.jpg"
+      },
+      {
+        "id": "3",
+        "imgurl": "http://qcloud.dpfile.com/pc/9l9TH1j3S76wmBMJ0wxg-SGH5_4QY8pKDBK1TU1qlKPAGd9hD72ZzXps7gqnuLgbQs6E6HQccbzhvkqkRN4krQ.jpg"
+      },
+      {
+        "id": "4",
+        "imgurl":"http://qcloud.dpfile.com/pc/TXUkLNzzXAS44v-B1Dqc7npElomerwpzL4Agp_80oq17ZnpmtQnr8Zm0Q3dGCse0Qs6E6HQccbzhvkqkRN4krQ.jpg"
+      }
+    ],
+    "foodmid": [
+      {
+        "id": "1",
+        "title": "INSTYLE造型·尊享店(三里屯店)",
+        "dingwei": "\ue758",
+        "des1": "朝阳区 工人体育场北路三里屯soho3号商场3层3323-3325",
+        "des2": "营业时间：10:00—22:30",
+        "logo2":"\uF2A2",
+        "des3": "今天圣诞节快到了，也来染个新发色。今天这个发色怎么样，启明老师给推荐的有没有很淑女，很显气质呀，哈哈",
+        "des4": "赶紧发个朋友圈给姐妹看看都说很好看了，而且启明老师还帮我打理了一下，朋友都说我换了一种风格呢，哈哈不错今天开始变身安安静静的人了，果然发型对一个人的改变是很大呀！！",
+        "des5": "圣诞了，你要不要也来试试呢？快来找启明老师吧",
+        "date": "发布于12月18日",
+        "liulan": "浏览 147",
+        "num": "1",
+        "user1": "https://p1.meituan.net/userheadpicbackend/cf13d7ae9f21c5b9939681843a26e453334619.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user2": "https://p0.meituan.net/userheadpicbackend/4b7c7016015877cd436f07eef2cec3cc89078.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user3": "https://p0.meituan.net/relationwxpic/9a0bd791d615b9d5f12bd6543bf1c6f56665.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user4": "https://p0.meituan.net/userheadpicbackend/a9ab2acff5ecd2758d1028c4efa088131249811.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "people": [
+          {
+            "id": "1",
+            "peo_img": "https://p0.meituan.net/userheadpicbackend/a9ab2acff5ecd2758d1028c4efa088131249811.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "您的支持和信任是我们最大的荣幸，我们会继续努力，为您提供更好的服务~~",
+            "peo_name": "IN STYLE臻选（商家）",
+            "peo_time": "23小时前"
+          }
+        ]
+      }
+    ],
+    "foodInfo": [
+      {
+        "id": "6",
+        "name": "INSTYLE造型·尊享店(三里屯店)",
+        "img": "https://qcloud.dpfile.com/pc/Y_nv5Wa8MxIAIj4S7f1xAD12A-kD8U3ppv2JjF9f8GKaygIbGUTc54uLQmU44F9ykkCBOWO5rApRy3gE6VS0Vg.jpg",
+        "userimg": "https://p0.meituan.net/userheadpicbackend/76e279e87c456f6dfb3a68f7eab44e06950328.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+        "username": "小鹿妮妮儿"
+      }
+    ]
+  }
+}

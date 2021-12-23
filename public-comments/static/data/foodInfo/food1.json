@@ -1,0 +1,101 @@
+{
+  "ret": "true",
+  "data": {
+    "foodtop":[
+        {
+          "id": "1",
+          "user_pic": "https://p0.meituan.net/userheadpicbackend/4b7c7016015877cd436f07eef2cec3cc89078.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+          "name": "此去今年",
+          "name2": "爱吃爱笑爱玩"
+        }
+      ],
+    "swipperList": [
+      {
+        "id": "1",
+        "imgurl": "https://qcloud.dpfile.com/pc/0Zku3aWSI4XaZCmH3tZI7SPU8Pzt1wsDrq9MDcAqqHZxXKHSzVskpf6qfDWtDcCLjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      },
+      {
+        "id": "2",
+        "imgurl": "https://qcloud.dpfile.com/pc/jt7uihxlPmoF3Y30YAV4zpolsbyY-4zTHi_279bsylLgSrTOi3GtsKoqaMiA-rjujoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      },
+      {
+        "id": "3",
+        "imgurl": "https://qcloud.dpfile.com/pc/0g5eMWoVKggqAPL8mNn-nq4N4C5u8q4iFiB_N3JqY0nuFAyquIZ4fjxV-NA3jJm5joJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      },
+      {
+        "id": "4",
+        "imgurl": "https://qcloud.dpfile.com/pc/G6En8sss0TzuW5iKtdLqAACAkyPfNCZ3NRyoz1-kY0810ccqsgZscFeurRU_ScJKjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      },
+      {
+        "id": "5",
+        "imgurl": "https://qcloud.dpfile.com/pc/Z0LluAjS-vrr41MavbCpcrDKr_Zina0kexsA1UpOY3F3xPXD8kqhoy_fq-v0FZ6hjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      }
+    ],
+    "foodmid": [
+      {
+        "id": "1",
+        "title": "ZOLA 佐拉西餐厅",
+        "dingwei": "\ue758",
+        "des1": "一家位于东明路",
+        "des2": "总述：黄浦江畔新型雅皮士社交空间，品味意式珍馐，你不容错过",
+        "des3":"——Large Eight Italy Lounge & Restaurant ",
+        "logo2":"\uF2A2",
+        "logo3":"\ue685",
+        "logo4":"\ue73f",
+        "des4": "地理位置：砂船缓缓驶过江面，伴着特有的马达声，将飞速发展的城市与时间隔离，一如电影里的画面，一个巨大的红砖建筑缓缓呈现，混凝土立柱，锈迹斑斑的钢板，脆弱风化的水泥。",
+        "des5": "屹立于江边百年前的远东大船厂——1862老船厂在此拉开帷幕。",
+        "des6":"构建一个黄浦江畔新型雅皮士社交空间。",
+        "des7": "餐厅环境描述：Large Eight Italy Lounge & Restaurant依托上海1862年老船厂特有的历史背景。",
+        "des8":"将当下的生活模式切入其中，使历史与当代艺术融合并存，给后工业风格的老船厂注入全新的时尚气息，构建一个黄浦江畔新型雅皮士美食酒廊。",
+        "date": "发布于10月14日",
+        "liulan": "浏览 6625",
+        "num": "15",
+        "user1": "https://p1.meituan.net/userheadpicbackend/cf13d7ae9f21c5b9939681843a26e453334619.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user2": "https://p0.meituan.net/userheadpicbackend/4b7c7016015877cd436f07eef2cec3cc89078.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user3": "https://p0.meituan.net/relationwxpic/9a0bd791d615b9d5f12bd6543bf1c6f56665.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user4": "https://p0.meituan.net/userheadpicbackend/a9ab2acff5ecd2758d1028c4efa088131249811.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "people": [
+          {
+            "id": "1",
+            "peo_img": "https://p0.meituan.net/userheadpicbackend/a9ab2acff5ecd2758d1028c4efa088131249811.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "好吃冲冲冲",
+            "peo_name": "宾果功夫",
+            "peo_time": "11月10日 19:21"
+          },
+          {
+            "id": "2",
+            "peo_img": "https://p0.meituan.net/userheadpic/strawberry.png%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "推荐，好吃",
+            "peo_name": "凯文杜兰特",
+            "peo_time": "10月9日 15:34"
+          },
+          {
+            "id": "3",
+            "peo_img": "https://p0.meituan.net/userheadpicbackend/4b7c7016015877cd436f07eef2cec3cc89078.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "性价比很不错",
+            "peo_name": "华景",
+            "peo_time": "9月25日 11:58"
+          },
+          {
+            "id": "4",
+            "peo_img": "https://p0.meituan.net/userheadpicbackend/c765c27184e4e7e62e1304e7bffa682a1619.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "最爱的西餐厅",
+            "peo_name": "理想",
+            "peo_time": "9月19日 12:11"
+          }
+        ]
+      }
+    ],
+    "foodInfo": [
+      {
+        "id": "1",
+        "name": "ZOLA 佐拉西餐厅",
+        "img": "https://qcloud.dpfile.com/pc/mpVCmidDyQZYT0dBseipFHzKT5nHFyzv8mKmG4sV3i_lrhn0XTeMrXTiH2yo-Ju9joJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg",
+        "userimg":"https://p0.meituan.net/userheadpicbackend/4b7c7016015877cd436f07eef2cec3cc89078.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0" ,
+        "username": "此去今年"
+      }
+    ]
+
+
+  }
+}

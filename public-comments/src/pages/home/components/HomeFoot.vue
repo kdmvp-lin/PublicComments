@@ -1,27 +1,31 @@
 <template>
     <div>
       <nav class="mui-bar mui-bar-tab">
-        <a class="mui-tab-item mui-active">
+        <router-link tag="a" to="/" class="mui-tab-item mui-active">
           <span class="mui-icon iconfont icon">&#xe691;</span>
           <span class="mui-tab-label">首页</span>
-        </a>
-        <a class="mui-tab-item">
+        </router-link>
+        <router-link tag="a" to="/Collection" class="mui-tab-item">
           <span class="mui-icon iconfont icon">&#xe79d;</span>
           <span class="mui-tab-label ">收藏</span>
-        </a>
-        <a class="mui-tab-item">
-          <span class="mui-icon iconfont icon"><span class="mui-badge">9</span>&#xe749;</span>
+        </router-link>
+        <router-link tag="a" to="/Message"  class="mui-tab-item">
+          <span class="mui-icon iconfont icon"><span class="mui-badge">13</span>&#xe749;</span>
           <span class="mui-tab-label">消息</span>
-        </a>
-        <a class="mui-tab-item">
+        </router-link>
+        <router-link tag="a" to="/Mine" class="mui-tab-item">
           <span class="mui-icon iconfont icon">&#xe779;</span>
           <span class="mui-tab-label">我的</span>
-        </a>
+        </router-link>
       </nav>
     </div>
 </template>
 
 <script>
+  import mui from '../../../mui/js/mui'
+  mui('body').on('tap','a',function(){
+    window.top.location.href=this.href
+  })
     export default {
         name: "HomeFoot"
     }
@@ -38,5 +42,6 @@
   .mui-bar-tab
   {
     background-color: white;
+    margin-bottom: -5px;
   }
 </style>

@@ -1,0 +1,83 @@
+{
+  "ret": "true",
+  "data": {
+    "foodtop":[
+      {
+        "id": "1",
+        "user_pic": "https://p1.meituan.net/userheadpicbackend/1f1a8c7e84dc0050d5a989ce7347a8b3480108.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "name": "小野爱美食",
+        "name2": "一个爱美食，爱旅行的吃货"
+      }
+    ],
+    "swipperList": [
+      {
+        "id": "1",
+        "imgurl": "https://qcloud.dpfile.com/pc/UJYqo0DceMCq-7fGYUD35FCaBYrY7N3NM99e0GZNAfvzEh2J7yEiz-83_daDDtGDjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      },
+      {
+        "id": "2",
+        "imgurl": "https://qcloud.dpfile.com/pc/o42UepMDhvBv4M9KtpjAP0O2aDfNQd5ECmN_aA8GClZzoLuLSvEEf2K4u9-tz9UTjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      },
+      {
+        "id": "3",
+        "imgurl": "https://qcloud.dpfile.com/pc/QelDEs5RTqaas5pzjKdzlcRRnHkhGWtgAzziZZ8zFe4nBIvqSaivU6NZO3Jx4kNSjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      },
+      {
+        "id": "4",
+        "imgurl":"https://qcloud.dpfile.com/pc/OB_rGy2VrX9JMjHHKAZjkGiaFcc028nixOlkqXUIDHnwXN60m6IpdhsYDBggEgYdjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      },
+      {
+        "id": "5",
+        "imgurl":"https://qcloud.dpfile.com/pc/lzfTYzhum6wwORi_BA2nAiq0kcrac_ccIpw9bJs_AKmES558aocLq1rgLm_bgSfWjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      }
+    ],
+    "foodmid": [
+      {
+        "id": "1",
+        "title": "忆境·沉浸式演绎剧场",
+        "dingwei": "\ue758",
+        "des1": "丰潭路508号天行国际大厦3号楼负一层",
+        "des2": "营业时间：12:00—次日1:00",
+        "logo2":"\uF2A2",
+        "des3": "打卡密室|瞳灵人",
+        "des4": "周三晚上组了8人开瞳灵人，5坦3奶通关模式，110分钟刺激不断",
+        "des5": "故事 背景",
+        "des6": "《瞳灵人》回溯了一桩残酷的校园霸凌往事，作为记者的方旭偶然间读到母校的一则新闻:\n“学校在对生活区进行改造时,于厕所第四隔间内发现一具身穿校服的女尸……”\n“因面部严重划伤,尸体身份无法辨别;此后更有人声称在校内遭遇'灵异事件’……”\n“受其影响,该校师生开始拒绝来校,目前校方正考虑搬迁事宜……”\n报道的内容,不禁让方旭联想到了离奇失踪的班长“李嘉熙”,临毕业的前一晚,玩过一个“灵异游戏”后,便再没有人见过她的踪影。于是,为了查清这背后的真相,方旭约上林磊警官及当时一起参与游戏的其他人共同回到了即将拆迁的“清宁中学”,故事由此展开。",
+        "des7": "终于去打卡号称杭州恐怖密室天花板的《瞳灵人》,作为一个人菜瘾又大的毒奶,去之前就紧张的不行,进去后在保安室还挺乐呵,进校门到教学区后,好家伙,保安来撵人了,第一轮逃跑就摔了个狗**,只觉一阵天昏地暗,来不及吃疼就起来继续往前冲了。\n可能是入场就摔了,后面变得更怂了,跑进教室后保安来踢门,我直撩蹲到了讲台底下,女鬼进门发飙我直趴在桌子上(前期完全不敢直视女鬼)。我的角色是李菲,后面单线任务也很精彩,不过我让人替我做了,我实在太怂了。唯一不怂的时候可能就是在教务处帮同学们顶门,保安力气真大啊,一脚我们几个都要被震飞 。\n因为玩的是通关模式,我们顺利玩到故事结束,结尾还挺动人的,校园霸凌真的很可怕,李嘉熙的遭遇让人同情。",
+        "des8":"密室服务很好, NPC专业,工作人员讲解剧情和复盘都超认真的。密室休息区座位挺大,还有一只布偶猫,很乖很粘人。\n密室结束店家会主动帮忙拍大合照,然后发一段视频,如果想要更多视频也可以,大概一周左右店家会剪辑好发过来。",
+        "date": "发布于8月19日",
+        "liulan": "浏览 5550",
+        "num": "75",
+        "user1": "https://p1.meituan.net/userheadpicbackend/cf13d7ae9f21c5b9939681843a26e453334619.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user2": "https://p0.meituan.net/userheadpicbackend/4b7c7016015877cd436f07eef2cec3cc89078.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user3": "https://p0.meituan.net/relationwxpic/9a0bd791d615b9d5f12bd6543bf1c6f56665.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user4": "https://p0.meituan.net/userheadpicbackend/a9ab2acff5ecd2758d1028c4efa088131249811.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "people": [
+          {
+            "id": "1",
+            "peo_img": "https://p0.meituan.net/userheadpicbackend/a9ab2acff5ecd2758d1028c4efa088131249811.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "很好的体验",
+            "peo_name": "Mike",
+            "peo_time": "8月19日 19:21"
+          },
+          {
+            "id": "2",
+            "peo_img": "https://p0.meituan.net/userheadpic/strawberry.png%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "哇哦，小姐姐的文笔超棒的鸭，保安给大家的压迫感，希望能被我们家的小猫咪治愈呢",
+            "peo_name": "忆境·沉浸式演绎剧场（商家）",
+            "peo_time": "8月30日 15:58"
+          }
+        ]
+      }
+    ],
+    "foodInfo": [
+      {
+        "id": "7",
+        "name": "沉浸式演绎剧场",
+        "img": "https://p0.meituan.net/dpmerchantpic/351af3906d8f057b826b429f150d1f70188174.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0",
+        "userimg": "https://p1.meituan.net/userheadpicbackend/1f1a8c7e84dc0050d5a989ce7347a8b3480108.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "username": "小野爱美食"
+      }
+    ]
+  }
+}

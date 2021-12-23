@@ -1,0 +1,76 @@
+{
+  "ret": "true",
+  "data": {
+    "foodtop":[
+      {
+        "id": "1",
+        "user_pic": "https://p0.meituan.net/userheadpicbackend/5c8729be258dc8c80857af0c5fa89144713007.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+        "name": "凌凌漆",
+        "name2": "喜欢旅行喜欢美食"
+      }
+    ],
+    "swipperList": [
+      {
+        "id": "1",
+        "imgurl": "https://qcloud.dpfile.com/pc/PsOc7XL4jg_pmQ_pDuHbLr4VgpgCc5xTlXTKf-uMtHQ9byagjLlrseWxnl1LcbuSMSA7eJMy80BwuDqlQwqdglEuLYk00OmSS1IdNpm8K8sG4JN9RIm2mTKcbLtc2o2vmIU_8ZGOT1OjpJmLxG6urQ.jpg"
+      },
+      {
+        "id": "2",
+        "imgurl": "https://qcloud.dpfile.com/pc/sMgqpO04n-wlyKTNJr5Qu4k3Yow8aYsypouC2oVUyPgphJfrL7bpWNvTSHVIqFQMMSA7eJMy80BwuDqlQwqdglEuLYk00OmSS1IdNpm8K8sG4JN9RIm2mTKcbLtc2o2vmIU_8ZGOT1OjpJmLxG6urQ.jpg"
+      },
+      {
+        "id": "3",
+        "imgurl": "https://qcloud.dpfile.com/pc/ulN9A3zEN486tvM1fD9oibQx3BRzS9kdq5QKEAWFmgueUTpyRvj2azXvAQnE7eVvMSA7eJMy80BwuDqlQwqdglEuLYk00OmSS1IdNpm8K8sG4JN9RIm2mTKcbLtc2o2vmIU_8ZGOT1OjpJmLxG6urQ.jpg"
+      },
+      {
+        "id": "4",
+        "imgurl":"https://qcloud.dpfile.com/pc/-Aal_hkEQws4qUc6Xem9xfHHl0IXS8UfxA8nj8l6mJr_6ATiXK-VOW3bSoDeuH_PMSA7eJMy80BwuDqlQwqdglEuLYk00OmSS1IdNpm8K8sG4JN9RIm2mTKcbLtc2o2vmIU_8ZGOT1OjpJmLxG6urQ.jpg"
+      },
+      {
+        "id": "5",
+        "imgurl":"https://qcloud.dpfile.com/pc/Ai4GXx_5BSkBlG0UrkWghs_JIRMEvVBrHW_2XnHT1ug0pUlE80XOPlInPTnkJtEjMSA7eJMy80BwuDqlQwqdglEuLYk00OmSS1IdNpm8K8sG4JN9RIm2mTKcbLtc2o2vmIU_8ZGOT1OjpJmLxG6urQ.jpg"
+      }
+    ],
+    "foodmid": [
+      {
+        "id": "1",
+        "title": "慢时光",
+        "dingwei": "\ue758",
+        "des1": "慵懒的周六午后，阳光透过窗帘和窗户的些许空档跑了进来，缱绻了一屋子的氤氲。",
+        "des2": "古道半程，靠着步道墙体一边摆放着一张小方桌，桌上摆放着几个盅杯，桌旁坐着一位老者，吆喝着桌上的茶水是免费提供的，有需要的行人不妨坐下来歇息片刻，唠唠嗑。",
+        "logo2":"\uF2A2",
+        "des3": "杵在步道上，远远地能望见横跨长江的大桥，桥面上车水马龙，车马都忙碌地在推动这座城市更有序地运转着，江面上矗立着几个说不出名来的设备。",
+        "des4":"约莫是在为岸边这方的空地传送着钢筋混泥土，几朵飘在天上的云，跟着自西向东的江水荡成了涟漪状。，里面有很多为了梦想在努力奋斗的人儿，",
+        "des5":"自习室不是自助的，之前体验过自助类型的自习室，体验感很不好，反映的问题只能在群里面喊，没办法得到有效的解决，老板的人很好，会努力照顾到所有人的情绪，特殊节日会买一些小零食。总体感觉很nice",
+        "des6":"在错位的时间感观里，很多出售着古道明信片的小铺子散落其间，偶有需要躬身才能进入的铺子里飘出姜茶味儿，无一例外地都堆放着一摞一摞的书。",
+        "des7": "，老式黑白电视藏在柜头中间的位置；墙外贴着蓝色的街道号，还有旧时存下来“禁止吸烟”“当心火灾”的一些提示牌；拥有时代解说身份的斗笠和烤火篼也占领了一席之墙",
+        "des8":"或许现在，那个小女孩已经不需要再踮起脚后跟，就可以很容易地拿起旁边的红色电话，电话那边，奶奶听上去依旧很健康，只是耳朵稍许不那么灵敏。",
+        "date": "发布于12月10日",
+        "liulan": "浏览 3342",
+        "num": "1",
+        "user1": "https://p1.meituan.net/userheadpicbackend/cf13d7ae9f21c5b9939681843a26e453334619.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user2": "https://p0.meituan.net/userheadpicbackend/4b7c7016015877cd436f07eef2cec3cc89078.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user3": "https://p0.meituan.net/relationwxpic/9a0bd791d615b9d5f12bd6543bf1c6f56665.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user4": "https://p0.meituan.net/userheadpicbackend/a9ab2acff5ecd2758d1028c4efa088131249811.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "people": [
+          {
+            "id": "1",
+            "peo_img": "https://img.meituan.net/relationwxpic/00150a5b7771901a7fda2074eedbc4975531.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "暗室区很适合夜猫子，观景区也不错",
+            "peo_name": "Mike",
+            "peo_time": "12月10日 21:21"
+          }
+        ]
+      }
+    ],
+    "foodInfo": [
+      {
+        "id": "4",
+        "name": "筑梦空间k书馆",
+        "img": "https://p0.meituan.net/dpmerchantpic/0bc500fc4f8ea3b1354bf83e799911de1258024.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0",
+        "userimg": "https://p0.meituan.net/userheadpicbackend/5c8729be258dc8c80857af0c5fa89144713007.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+        "username": "凌凌漆"
+      }
+    ]
+  }
+}

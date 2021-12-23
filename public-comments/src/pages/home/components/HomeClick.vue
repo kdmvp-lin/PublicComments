@@ -4,20 +4,19 @@
         <div id="slider" class="mui-slider">
 <!--          点击选项-->
           <div id="sliderSegmentedControl" class="mui-slider-indicator mui-segmented-control mui-segmented-control-inverted">
-            <a class="mui-control-item" href="#item1mobile">
+            <a class="mui-control-item" >
               怎么玩
             </a>
-            <a class="mui-control-item" href="#item2mobile">
+            <a class="mui-control-item" >
               游景点
             </a>
-            <a class="mui-control-item" href="#item3mobile">
+            <a class="mui-control-item" >
               定住宿
             </a>
           </div>
-
           <div id="sliderProgressBar" class="mui-slider-progress-bar mui-col-xs-4"></div>
           <div class="mui-slider-group">
-            <div id="item1mobile" class="mui-slider-item mui-control-content mui-active">
+            <div id="item6mobile" class="mui-slider-item mui-control-content mui-active">
               <div id="scroll1" class="mui-scroll-wrapper">
                 <div class="mui-scroll">
                   <ul class="mui-table-view">
@@ -37,7 +36,7 @@
                 </div>
               </div>
             </div>
-            <div id="item2mobile" class="mui-slider-item mui-control-content">
+            <div id="item7mobile" class="mui-slider-item mui-control-content">
               <div id="scroll2" class="mui-scroll-wrapper">
                 <div class="mui-scroll">
                       <ul class="mui-table-view">
@@ -58,21 +57,21 @@
               </div>
 
             </div>
-            <div id="item3mobile" class="mui-slider-item mui-control-content">
+            <div id="item8mobile" class="mui-slider-item mui-control-content">
               <div id="scroll3" class="mui-scroll-wrapper">
                 <div class="mui-scroll">
                   <ul class="mui-table-view">
                     <li class="mui-table-view-cell">
-                      <img  class="img" src="https://p0.meituan.net/dpmerchantpic/c5ae8445d21d623fb1e6e3b109a86f421926695.jpg%40120w_90h_1e_1c_1l_80q%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20">
-                      <div>罪案调查局·侦探推理实景体验馆</div>
+                      <img  class="img" src="http://p0.meituan.net/tdchoteldark/4814b00050aa1cabc85aa62b97b13a8d4467515.jpg%40240w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20">
+                      <div>温州香格里拉大酒店</div>
                     </li>
                     <li class="mui-table-view-cell">
-                      <img class="img" src="https://p1.meituan.net/dpmerchantpic/c6c3216775b8354dd3f6bb03e5dc6ddd597976.jpg%40120w_90h_1e_1c_1l_80q%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20">
-                      <div>蓝惊灵沉浸式体验馆</div>
+                      <img class="img" src="http://p0.meituan.net/tdchoteldark/dce553c834eb3a40fcc65cb014b8509d415627.jpg%40240w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20">
+                      <div>溪山外独立溪谷酒店</div>
                     </li>
                     <li class="mui-table-view-cell">
-                      <img class="img" src="https://img.meituan.net/msmerchant/1017736975ddcc99d0da1b313c525a15133577.jpg%40340w_192h_1e_1l%7Cwatermark%3D0">
-                      <div>无爲舍茶蔬院</div>
+                      <img class="img" src="http://p0.meituan.net/tdchoteldark/a9d31dcf97ca058444f7750b01c5c36a397182.jpg%40240w_180h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20">
+                      <div>温州空港万豪酒店</div>
                     </li>
                   </ul>
                 </div>
@@ -93,6 +92,11 @@
 </script>
 
 <style scoped>
+  *{
+    touch-action: pan-y;
+
+    touch-action: pan-x;
+  }
   .mui-segmented-control.mui-segmented-control-inverted .mui-control-item
   {
     font-size: 1.3rem;

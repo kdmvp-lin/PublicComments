@@ -1,0 +1,85 @@
+{
+  "ret": "true",
+  "data": {
+    "foodtop":[
+      {
+        "id": "1",
+        "user_pic": "https://p0.meituan.net/userheadpicbackend/ebb3fe19f41e8e6f33a345f554ae3ed1565260.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "name": "迷彩~",
+        "name2": "寻找美食"
+      }
+    ],
+    "swipperList": [
+      {
+        "id": "1",
+        "imgurl": "https://qcloud.dpfile.com/pc/Ljgydg_a2L0IPbhnDgfUm2a7pQxQktsGLC2ZykD7XglztUXkBLUtTgBkATtZaz6YjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      },
+      {
+        "id": "2",
+        "imgurl": "https://qcloud.dpfile.com/pc/i1a2LhvldR1hrKo9yYKJbpvpNs9vT-2labUxHCV9CQFWK0Km6r6nUgRL0rHfY_q_joJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      },
+      {
+        "id": "3",
+        "imgurl": "https://qcloud.dpfile.com/pc/vby-oLJ0Yhodg1Hh3S3zklJUwkz_gk7uvpqkOM7WW_E7ayS0nF7y2IE5HRbEO0bEjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      }
+    ],
+    "foodmid": [
+      {
+        "id": "1",
+        "title": "Zosen 佐上甜品",
+        "dingwei": "\ue758",
+        "des1": "鹿城区划龙桥路215路",
+        "des2": "营业时间：10:00—20:00",
+        "logo2":"\uF2A2",
+        "des4": "现在的蛋糕店内卷太严重了想选择一家好吃又好看的太难了刚好过生日朋友给推荐了这家店看在颜值和味道这么在线的份上就花时间评论一下~蛋糕我是当天上午预定的下午就能做好可自提可配送(配送可以选择商家配送和自己叫跑腿)蛋糕完全是一比一的还原了看了很多评价都是这款无花果的整体看起来很 ins 风",
+        "des5": "因为个人体质问题不能吃奶制品于是点了一个4寸的给朋友们吃也不浪费蜡烛和餐盘都会送蛋糕胚是芒果夹心的奶油吃起来也不腻是好的奶油口感店里还有很多其他款式都非常好看!!无论选择哪一款都不会踩雷拍照也很好看！！",
+        "date": "发布于11月22日",
+        "liulan": "浏览 2285",
+        "num": "11",
+        "user1": "https://p1.meituan.net/userheadpicbackend/cf13d7ae9f21c5b9939681843a26e453334619.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user2": "https://p0.meituan.net/userheadpicbackend/4b7c7016015877cd436f07eef2cec3cc89078.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user3": "https://p0.meituan.net/relationwxpic/9a0bd791d615b9d5f12bd6543bf1c6f56665.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user4": "https://p0.meituan.net/userheadpicbackend/a9ab2acff5ecd2758d1028c4efa088131249811.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "people": [
+          {
+            "id": "1",
+            "peo_img": "https://p0.meituan.net/userheadpicbackend/a9ab2acff5ecd2758d1028c4efa088131249811.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "环境很好",
+            "peo_name": "Mike",
+            "peo_time": "11月10日 19:21"
+          },
+          {
+            "id": "2",
+            "peo_img": "https://p0.meituan.net/userheadpic/strawberry.png%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "推荐，好吃",
+            "peo_name": "Cindy",
+            "peo_time": "10月9日 15:34"
+          },
+          {
+            "id": "3",
+            "peo_img": "https://p0.meituan.net/userheadpicbackend/4b7c7016015877cd436f07eef2cec3cc89078.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "性价比很不错",
+            "peo_name": "华景",
+            "peo_time": "9月25日 11:58"
+          },
+          {
+            "id": "4",
+            "peo_img": "https://p0.meituan.net/userheadpicbackend/c765c27184e4e7e62e1304e7bffa682a1619.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "最爱的西餐厅",
+            "peo_name": "理想",
+            "peo_time": "9月19日 12:11"
+          }
+        ]
+      }
+    ],
+    "foodInfo": [
+      {
+        "id": "2",
+        "name": "Zosen 佐上甜品",
+        "img": "https://img.meituan.net/msmerchant/91f1bb0c9eb76ca9d6e44c03a9bf3bb6537785.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0",
+        "userimg": "https://p0.meituan.net/userheadpicbackend/ebb3fe19f41e8e6f33a345f554ae3ed1565260.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "username": "迷彩~"
+      }
+    ]
+  }
+}

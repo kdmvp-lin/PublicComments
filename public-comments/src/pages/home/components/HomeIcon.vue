@@ -8,43 +8,43 @@
     <swiper :options="swiperOption" ref="mySwiper">
       <swiper-slide >
         <ul class="mui-table-view mui-grid-view mui-grid-9">
-          <router-link tag="li"  to="/"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
+          <router-link tag="li"  to="/Banner"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
             <svg class="iconfont icon" aria-hidden="true"><use xlink:href="#icon-shiwu"></use></svg>
             <div class="mui-media-body">美食</div></a>
           </router-link>
-          <router-link tag="li"  to="/"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
+          <router-link tag="li"  to="/Banner"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
             <svg class="iconfont icon" aria-hidden="true"><use xlink:href="#icon-maoyandianying"></use></svg>
             <div class="mui-media-body">猫眼电影</div></a>
           </router-link>
-          <router-link tag="li"  to="/"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
+          <router-link tag="li"  to="/Banner"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
             <svg class="iconfont icon" aria-hidden="true"><use xlink:href="#icon-KTV"></use></svg>
             <div class="mui-media-body">KTV</div></a>
           </router-link>
-          <router-link tag="li"  to="/"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
+          <router-link tag="li"  to="/Banner"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
             <svg class="iconfont icon" aria-hidden="true"><use xlink:href="#icon-meituanwaimai"></use></svg>
             <div class="mui-media-body">美团外卖</div></a>
           </router-link>
-          <router-link tag="li"  to="/"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
+          <router-link tag="li"  to="/Banner"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
             <svg class="iconfont icon" aria-hidden="true"><use xlink:href="#icon-youleyuan"></use></svg>
             <div class="mui-media-body">游乐园</div></a>
           </router-link>
-          <router-link tag="li"  to="/"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
+          <router-link tag="li"  to="/Banner"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
             <svg class="iconfont icon" aria-hidden="true"><use xlink:href="#icon-jianshen"></use></svg>
             <div class="mui-media-body">健身</div></a>
           </router-link>
-          <router-link tag="li"  to="/"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
+          <router-link tag="li"  to="/Banner"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
             <svg class="iconfont icon" aria-hidden="true"><use xlink:href="#icon-jiudian"></use></svg>
             <div class="mui-media-body">酒店</div></a>
           </router-link>
-          <router-link tag="li"  to="/"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
+          <router-link tag="li"  to="/Banner"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
             <svg class="iconfont icon" aria-hidden="true"><use xlink:href="#icon-xianhua"></use></svg>
             <div class="mui-media-body">鲜花</div></a>
           </router-link>
-          <router-link tag="li"  to="/"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
+          <router-link tag="li"  to="/Banner"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
             <svg class="iconfont icon" aria-hidden="true"><use xlink:href="#icon-xiuxian"></use></svg>
             <div class="mui-media-body">休闲</div></a>
           </router-link>
-          <router-link tag="li"  to="/"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
+          <router-link tag="li"  to="/Banner"  class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3"><a href="#">
             <svg class="iconfont icon" aria-hidden="true"><use xlink:href="#icon-xiyu"></use></svg>
             <div class="mui-media-body">洗浴</div></a>
           </router-link>
@@ -82,6 +82,10 @@
 </script>
 
 <style scoped lang="stylus">
+  *{
+    touch-action: pan-y;
+    touch-action: pan-x;
+  }
   .mui-content
     margin-top -20px
   .mui-content .mui-table-view

@@ -1,11 +1,11 @@
 <template>
     <div>
-<!--        <home-top></home-top>-->
+        <home-top></home-top>
         <home-foot></home-foot>
-<!--        <home-icon></home-icon>-->
-<!--        <home-click></home-click>-->
-<!--        <home-title></home-title>-->
-<!--        <home-food :food="food"></home-food>-->
+        <home-icon></home-icon>
+        <home-click></home-click>
+        <home-title></home-title>
+        <home-food :food="food"></home-food>
     </div>
 </template>
 

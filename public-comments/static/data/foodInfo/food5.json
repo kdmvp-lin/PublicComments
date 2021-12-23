@@ -1,0 +1,71 @@
+{
+  "ret": "true",
+  "data": {
+    "foodtop":[
+      {
+        "id": "1",
+        "user_pic": "https://p0.meituan.net/userheadpicbackend/5c8729be258dc8c80857af0c5fa89144713007.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+        "name": "凌凌漆",
+        "name2": "喜欢旅行喜欢美食"
+      }
+    ],
+    "swipperList": [
+      {
+        "id": "1",
+        "imgurl": "http://qcloud.dpfile.com/pc/ctCO72JpgDSIqjP24DYTnU_j6sc_Due6iN5RapVXMzZ_39zO3mRNVECDQJkgHY_7ehXPC7jR0jb2GJ72i5Mfiw.jpg"
+      },
+      {
+        "id": "2",
+        "imgurl": "http://qcloud.dpfile.com/pc/BOFaqt4bBKgeH-lfG6kaPSe1T_JRF3MX9lmADAQrvbZavjH5TCeBF7H4bYFtpQJUehXPC7jR0jb2GJ72i5Mfiw.jpg"
+      },
+      {
+        "id": "3",
+        "imgurl": "http://qcloud.dpfile.com/pc/uAmZFnmwCalXjVICfCL3Zo4ND5DfHe-olvzrlvLOLy5-MI0jog8xw73PXpv9e3WMehXPC7jR0jb2GJ72i5Mfiw.jpg"
+      },
+      {
+        "id": "4",
+        "imgurl":"http://qcloud.dpfile.com/pc/KVGpXH0fy3JsgDNA_Pf9aqeQWlOTf5N2GNOJlm_R5vGvQG3d7umlY1qcFMYGJBlKehXPC7jR0jb2GJ72i5Mfiw.jpg"
+      },
+      {
+        "id": "5",
+        "imgurl":"http://qcloud.dpfile.com/pc/wuiCpumE6ldVe8ufwB4yhsd4_kPXt5p9BKGFFSTunbff9kBr9L0jiUKxd76IYY32ehXPC7jR0jb2GJ72i5Mfiw.jpg"
+      }
+    ],
+    "foodmid": [
+      {
+        "id": "1",
+        "title": "筑梦空间k书馆·沉浸式自习室",
+        "dingwei": "\ue758",
+        "des1": "苏州街18号院长远天地大厦A2座13层12A09",
+        "des2": "营业时间：8:30—23:00",
+        "logo2":"\uF2A2",
+        "des3": "筑梦学习空间的学习氛围很好，里面有很多为了梦想在努力奋斗的人儿，自习室不是自助的，之前体验过自助类型的自习室，体验感很不好，反映的问题只能在群里面喊，没办法得到有效的解决，老板的人很好，会努力照顾到所有人的情绪，特殊节日会买一些小零食。总体感觉很nice",
+        "date": "发布于12月10日",
+        "liulan": "浏览 3342",
+        "num": "1",
+        "user1": "https://p1.meituan.net/userheadpicbackend/cf13d7ae9f21c5b9939681843a26e453334619.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user2": "https://p0.meituan.net/userheadpicbackend/4b7c7016015877cd436f07eef2cec3cc89078.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user3": "https://p0.meituan.net/relationwxpic/9a0bd791d615b9d5f12bd6543bf1c6f56665.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user4": "https://p0.meituan.net/userheadpicbackend/a9ab2acff5ecd2758d1028c4efa088131249811.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "people": [
+          {
+            "id": "1",
+            "peo_img": "https://img.meituan.net/relationwxpic/00150a5b7771901a7fda2074eedbc4975531.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "暗室区很适合夜猫子，观景区也不错",
+            "peo_name": "Mike",
+            "peo_time": "12月10日 21:21"
+          }
+        ]
+      }
+    ],
+    "foodInfo": [
+      {
+        "id": "5",
+        "name": "筑梦空间k书馆",
+        "img": "https://p0.meituan.net/dpmerchantpic/0bc500fc4f8ea3b1354bf83e799911de1258024.jpg%40340w_255h_1e_1c_1l%7Cwatermark%3D0",
+        "userimg": "https://p0.meituan.net/userheadpicbackend/5c8729be258dc8c80857af0c5fa89144713007.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+        "username": "凌凌漆"
+      }
+    ]
+  }
+}

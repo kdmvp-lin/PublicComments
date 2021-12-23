@@ -1,0 +1,79 @@
+{
+  "ret": "true",
+  "data": {
+    "foodtop":[
+      {
+        "id": "1",
+        "user_pic": "https://p1.meituan.net/userheadpicbackend/66f66aa97cfb5c0f614c3c4e6394adce239716.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "name": "徐豆豆",
+        "name2": "喜欢旅行喜欢美食"
+      }
+    ],
+    "swipperList": [
+      {
+        "id": "1",
+        "imgurl": "https://p0.meituan.net/dpmerchantpic/81ceac0b3ed4345e6be32dc84bd153dd1195890.jpg%40120w_90h_1e_1c_1l_80q%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+      },
+      {
+        "id": "2",
+        "imgurl": "https://qcloud.dpfile.com/pc/c9dTQHUa2KilVBmUhpy2jqpnVwcJZkdHI7zUe46q3scUJaBxFbEE3MiIUw8CjX3BjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      },
+      {
+        "id": "3",
+        "imgurl": "https://qcloud.dpfile.com/pc/8s9ZEO0p8UQX_c-eVCeHxaW1BiMuqW9dwuc4GGAVW20AFLpyZY7PP9S9OIuieEZKjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      },
+      {
+        "id": "4",
+        "imgurl":"https://qcloud.dpfile.com/pc/Q5yrcMhAoKC5XKIRfheJGs7npXlGdvz7JSldgn9uk9lztojF5E8Yc6oHqMAb8ekUjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg"
+      }
+    ],
+    "foodmid": [
+      {
+        "id": "1",
+        "title": "屋有岛 ·学园大逃杀",
+        "dingwei": "\ue758",
+        "des1": "安波路998号创智汇二期216",
+        "des2": "营业时间：9:30—次日1:30",
+        "logo2":"\uF2A2",
+        "des3": "今天去了14个人，3个场景，一同大逃杀。总体设计和体验还是比较有新意的，场景设置的也比较贴近真实，小刺激而不恐怖。下面说说可以改进的点：",
+        "des4": "1.灯光指示的毒气区、被攻击区，指示不太明确，灯光颜色和强度不够明显，会造成没注意到就牺牲了。",
+        "des5": "2.逃离密室解题时间有点少，基本最多完成一半，不够尽兴。",
+        "des6": "3.决战阶段，安全区和危险区不够明显，可能是第一点的原因，需要改善。",
+        "des7": "4.枪支攻击背面好像没有效果，至少今天参加的人反映是这样。另外被打死的人，丢掉的等级有点多，造成开局不利，后面就要挨打。",
+        "des8": "总体感觉还不错，还是值得推荐的",
+        "date": "发布于12月10日 19：43",
+        "liulan": "浏览 3030",
+        "num": "11",
+        "user1": "https://p1.meituan.net/userheadpicbackend/cf13d7ae9f21c5b9939681843a26e453334619.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user2": "https://p0.meituan.net/userheadpicbackend/4b7c7016015877cd436f07eef2cec3cc89078.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user3": "https://p0.meituan.net/relationwxpic/9a0bd791d615b9d5f12bd6543bf1c6f56665.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "user4": "https://p0.meituan.net/userheadpicbackend/a9ab2acff5ecd2758d1028c4efa088131249811.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "people": [
+          {
+            "id": "1",
+            "peo_img": "https://p0.meituan.net/userheadpicbackend/a9ab2acff5ecd2758d1028c4efa088131249811.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "亲爱的同学你好~感谢同学百忙之中的点评~十分感谢您宝贵的意见和建议~解密环节同学们可以向老师提问哟；毒气散布使用红色灯光作为警示，为了不干扰大家“杀敌”的视线~我们的马甲后面只有一个感应点哦~正面“刚枪”伤害比较高哟~我们死亡后掉落等级是我们的“自动舔包”机制哦~等级越高的小伙伴死亡掉落等级会越多滴~看来小伙伴们等级都很高哦！最后再次感谢同学们宝贵的意见和建议，这边一定会加强和改进的~期待大家下次光临哟~",
+            "peo_name": "屋有岛 ·学园大逃杀（商家）",
+            "peo_time": "12月10日 21:21"
+          },
+          {
+            "id": "2",
+            "peo_img": "https://p0.meituan.net/userheadpicbackend/c765c27184e4e7e62e1304e7bffa682a1619.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+            "peo_word": "打卡成功",
+            "peo_name": "波波",
+            "peo_time": "12月19日 12:11"
+          }
+        ]
+      }
+    ],
+    "foodInfo": [
+      {
+        "id": "8",
+        "name": "学园大逃杀",
+        "img": "https://p0.meituan.net/dpmerchantpic/81ceac0b3ed4345e6be32dc84bd153dd1195890.jpg%40120w_90h_1e_1c_1l_80q%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+        "userimg": "https://p1.meituan.net/userheadpicbackend/66f66aa97cfb5c0f614c3c4e6394adce239716.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D0",
+        "username": "徐豆豆"
+      }
+    ]
+  }
+}

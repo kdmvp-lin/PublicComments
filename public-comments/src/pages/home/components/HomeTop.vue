@@ -16,7 +16,6 @@
             </div>
           </li>
         </ul>
-
     </div>
     <div class="search">
       <input type="text" placeholder="搜索商户名、地址等" class="search_input">

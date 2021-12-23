@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3015454 */
-  src: url('iconfont.woff2?t=1639463402603') format('woff2'),
-       url('iconfont.woff?t=1639463402603') format('woff'),
-       url('iconfont.ttf?t=1639463402603') format('truetype');
+  src: url('iconfont.woff2?t=1639916415906') format('woff2'),
+       url('iconfont.woff?t=1639916415906') format('woff'),
+       url('iconfont.ttf?t=1639916415906') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,130 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shoucang:before {
+  content: "\e65e";
+}
+
+.icon-xinxi:before {
+  content: "\e608";
+}
+
+.icon-shanchu:before {
+  content: "\e602";
+}
+
+.icon-online-store:before {
+  content: "\e619";
+}
+
+.icon-dukan:before {
+  content: "\e61b";
+}
+
+.icon-1:before {
+  content: "\e61c";
+}
+
+.icon-2:before {
+  content: "\e61e";
+}
+
+.icon-3:before {
+  content: "\e61f";
+}
+
+.icon-13:before {
+  content: "\e620";
+}
+
+.icon-11:before {
+  content: "\e621";
+}
+
+.icon-15:before {
+  content: "\e625";
+}
+
+.icon-18:before {
+  content: "\e626";
+}
+
+.icon-bianji:before {
+  content: "\e60b";
+}
+
+.icon-pingjia:before {
+  content: "\e642";
+}
+
+.icon-shangchuanzhaopian:before {
+  content: "\e63c";
+}
+
+.icon-_xican:before {
+  content: "\e824";
+}
+
+.icon-fenxiang:before {
+  content: "\e63b";
+}
+
+.icon-naicha:before {
+  content: "\e612";
+}
+
+.icon-caipinpaihangbang:before {
+  content: "\e660";
+}
+
+.icon-zaocan:before {
+  content: "\e736";
+}
+
+.icon-shangchuanshipin:before {
+  content: "\e69c";
+}
+
+.icon-qingchu:before {
+  content: "\e603";
+}
+
+.icon-bianji1:before {
+  content: "\e627";
+}
+
+.icon-renqicaipin:before {
+  content: "\e628";
+}
+
+.icon-tianjiatupian_huaban:before {
+  content: "\e62c";
+}
+
+.icon-like:before {
+  content: "\e604";
+}
+
+.icon-shangchuanshipin1:before {
+  content: "\e6c3";
+}
+
+.icon-dingzuo:before {
+  content: "\e63e";
+}
+
+.icon-shangchuanshipin2:before {
+  content: "\e617";
+}
+
+.icon-dianpu:before {
+  content: "\f2a2";
+}
+
+.icon-miaosha:before {
+  content: "\ecab";
 }
 
 .icon-falling:before {
